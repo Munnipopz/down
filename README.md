@@ -2,7 +2,7 @@
 Go to this page if you wanna read english version [English Version](https://github.com/GlgApr/TorrentMega2GoogleDrive/blob/master/README-E.md)
 
 ### With Bot Token & Session String
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/TGExplore/TG-Files-to-Link)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Munnipopz/down)
 
 # Repo apaan ni man?
 Repo puyuh buat download dari torrent/mega.nz/direct link terus diupload ke Google Drive tercinta, support TeamDrive juga biar storagemu ga penuh + support Google Drive Index juga biar ga repot atur-atur izin..
