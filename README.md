@@ -33,8 +33,7 @@ Sabar ya, ini agak ribet kalau masih pertama kali.
 
 - Clone this repo (pastiin udah install git ya) atau download langsung masternya yang format .zip nya juga bisa:
 ```
-git clone https://github.com/glgapr/TorrentMega2GoogleDrive
-cd TorrentMega2GoogleDrive
+git clone https://github.com/Munnipopz/down
 ```
 
 ## Setting up config file
